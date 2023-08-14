@@ -1,6 +1,5 @@
 def solution(myString):
-    myString = myString.split('x')
-    myString = ' '.join(myString).split()
+    myString = ' '.join(myString.split('x')).split()
     return sorted(myString)
 
 
