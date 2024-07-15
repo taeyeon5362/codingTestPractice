@@ -6,3 +6,4 @@ if n >= 1000 :
         print('Good')
 else :
     print('Bad')
+    
