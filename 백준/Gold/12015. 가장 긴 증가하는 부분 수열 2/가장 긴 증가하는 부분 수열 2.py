@@ -1,6 +1,7 @@
-import sys
 from bisect import bisect_left
+import sys
 input = sys.stdin.readline
+
 
 n = int(input())
 num_list = [*map(int, input().split())]
