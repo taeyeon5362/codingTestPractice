@@ -5,3 +5,4 @@ for _ in range(T):
     for i in range(N):
         a,b = b, a+b 
     print(a,b)
+    
