@@ -17,3 +17,4 @@ for i in range(x):
             if wants.count(i) >= 2:
                 count += wants.count(i) - 1
         print(count)
+        
